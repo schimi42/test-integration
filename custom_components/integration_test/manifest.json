@@ -1,0 +1,12 @@
+{
+  "domain": "integration_test",
+  "name": "Integration Test",
+  "codeowners": [
+    "@schimi42"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/schimi42/integration_test",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/schimi42/integration_test/issues",
+  "version": "0.0.0"
+}
